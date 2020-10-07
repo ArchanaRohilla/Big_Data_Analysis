@@ -1,12 +1,12 @@
 # Big Data Analysis
-Amazon reviews analysis using PySpark and AWS
+Amazon vine reviews analysis using PySpark and AWS
 
 ## Project Overview
-In this project, a complete ETL process has been performed in the AWS cloud and uploaded DataFrame to an AWS RDS instance. 
-PySpark has been used to perform a statistical analysis of electronics items of Amazon reviews.
+In this project, a complete ETL process has been performed in the AWS cloud platform and uploaded DataFrame to an AWS RDS instance. 
+PySpark has been used to perform a statistical analysis of reviews of electronics items sold on Amazon.
 
 ## Tools
-PySpark, AWS RDS/S3
+PySpark, AWS RDS/S3, Google Colab Notebook
 
 ## Summary
 ### Amazon_reviews_ETL.ipynb google colab link:
