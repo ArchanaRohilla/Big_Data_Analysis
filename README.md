@@ -23,8 +23,22 @@ This will fit the dataset into tables of the schema file.
 https://colab.research.google.com/drive/17o2j3lKEkRBbhWDNateZBZn0WYc-v2qt?usp=sharing
 
 
-### Vine reviews 
-- 
+### Vine reviews analysis
+- Many of Amazon's shoppers depend on product reviews to make a purchase.
+
+- There were total 3093660 reviews in the cleaned electronics dataset.
+
+- Out of the total 3093660 reviews, 18512 were the reviews which belong to vine-program whereas 3075148 reviews do not belong to the vine-program.
+
+- The average star rating of the vine(paid) reviews is 4.135 whereas the average star rating of the non-vine(unpaid) reviews is 4.035.
+
+- The "5-star-rating" and "4-star-rating" of the vine reviews are more as compared to the other ratings(1,2,3).
+
+- The "5-star-rating" and "4-star-rating" of the non-vine reviews are also more as compared to the other ratings(1,2,3).
+
+- The number of helpful votes are more in case of non-vines reviews.
+
+- There is negligiable difference between the average ratings of vine and non-vine reviews. Hence, it can be concluded that the vine reviews are not biased and can be trusted.
 
 - Vine reviews (Vine_reviews.ipynb) google colab link:
 
