@@ -19,6 +19,7 @@ This will fit the dataset into tables of the schema file.
 - Loaded the DataFrames that correspond to tables into an AWS RDS instance.
 
 - Amazon reviews ETL (Amazon_reviews_ETL.ipynb) google colab link:
+
 https://colab.research.google.com/drive/17o2j3lKEkRBbhWDNateZBZn0WYc-v2qt?usp=sharing
 
 
@@ -26,4 +27,5 @@ https://colab.research.google.com/drive/17o2j3lKEkRBbhWDNateZBZn0WYc-v2qt?usp=sh
 - 
 
 - Vine reviews (Vine_reviews.ipynb) google colab link:
+
 https://colab.research.google.com/drive/1fYhQa-IVwQNvjp1nyNCoGXavR4RJtE1w?usp=sharing
